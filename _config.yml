@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Julian Katzke"
   avatar           : "profile2.JPG"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Postdoctoral Researcher in Evolutionary Biology, Entomology, Big Data Morphology aka Phenomics"
+  location         : "Washington, DC"
+  employer         : "Smithsonian National Museum of Natural History"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=GdC5XUAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Julian-Katzke"
   uri              :
   bitbucket        :
   codepen          :
