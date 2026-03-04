@@ -4,5 +4,7 @@ excerpt: "Rendering of a Strumigenys ant head<br/><img src='/images/PlosBio_Stru
 collection: portfolio
 ---
 
-I rendered this image to visualize the extremes in a dataset of over 500 ant species (Matte et al. 2025: https://doi.org/10.1126/sciadv.adx8068).  
-This image was featured in a New York Times Trilobites report of our paper (https://www.nytimes.com/2025/12/19/science/ants-exoskeletons-weak.html).
+I was not a co-author of this study but as a Strumigenys enthusiast and aspiring 3D modeller, I was happy enough to contribute the cover image to the PLOS Biology where my colleagues have published (https://doi.org/10.1371/journal.pbio.3001031).  
+The image uses volume rendering techniques to highlight both the mandible closer muscle as well as the labral muscle that would initiate this ant's trap-jaw mechanism.  
+Simultaneously, I attempted to show as much of the head as possible to convey the unique morphologies we find in this group of ants.
+
