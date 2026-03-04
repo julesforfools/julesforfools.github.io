@@ -1,6 +1,6 @@
 ---
 title: "The cheap many vs. the costly few"
-excerpt: "Cuticle volumes of the ants with the thinnest and thickest cuticles, respectively<br/><img src='/images/500x300.png'>"
+excerpt: "Cuticle volumes of the ants with the thinnest and thickest cuticles, respectively<br/><img src='/images/Colony_volumes_04.png'>"
 collection: portfolio
 ---
 
