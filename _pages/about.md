@@ -15,7 +15,7 @@ Digital Morphology
 
 
 ---
-<br/><img src='/images/mandibles_622_alpha.tif'>
+<br/><img src='/images/mandibles_622.jpg'>
 
 ---
 
