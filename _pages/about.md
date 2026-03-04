@@ -27,7 +27,7 @@ Getting started
 
 ---
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/mandibles_622_alpha.tif'>
 
 ---
 
